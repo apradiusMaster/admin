@@ -1,0 +1,71 @@
+:root {
+    --primero: #8bc34a;
+    --segundo: #03a9f4;
+    --tercero: #ab47bc;
+    --cuarto: #ffb300;
+    --gris: #ecf0f5;
+    --azul: #25476a;
+}
+
+html {
+	height: 100%;
+}
+body {
+	min-height: 100%;
+}
+body .contenido {
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 13px 39px -6px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 13px 39px -6px rgba(0,0,0,0.75);
+	box-shadow: 0px 13px 39px -6px rgba(0,0,0,0.75);
+}
+body.login {
+	background-image: url(../img/libros.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.bg-success,
+.btn-success {
+	background-color: #8bc34a!important;
+}
+
+.bg-primary,
+.btn-primary {
+	background-color: #03a9f4!important;
+}
+.bd-navbar {
+	position:  webkit-sticky;
+	position: sticky;
+	top: 0;
+	z-index: 1071;
+}
+aside {
+	width: 250px;
+	height: 100%;
+	position: fixed;
+	margin-top: 55px;
+	top: 0;
+	aside:1000;
+}
+main {
+    position: relative;
+    left: 0;
+    margin-left: 260px;
+    min-height: 100%;
+}
+.boton {
+	min-height: 120px;
+}
+.boton i {
+	font-size: 3rem;
+}
+.boton a:hover {
+	color: white!important;
+	text-decoration: none;
+}
+#ventas {
+	height: 250px;
+}
+
+
+
