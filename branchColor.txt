@@ -1,0 +1,30 @@
+commit dacdd74d86039ade8856f5af32b71274e300ea08
+Merge: bf12aa8 e7db5d6
+Author: Apradius <gustavo_rocha_2-d@hotmail.com>
+Date:   Sat Apr 25 23:57:08 2020 -0400
+
+    realizamos algun cambio
+
+commit bf12aa87f78ee22d49339c1ba24bc91512f9217b
+Author: Apradius <gustavo_rocha_2-d@hotmail.com>
+Date:   Sat Apr 25 23:50:12 2020 -0400
+
+    cambiamos el color del boton agragar cliente
+
+commit e7db5d6763b8475231add871f004ef7efb32b31e
+Author: Apradius <gustavo_rocha_2-d@hotmail.com>
+Date:   Sat Apr 25 23:29:47 2020 -0400
+
+    agregamos un nuevo cliente a la lista
+
+commit 89454f1f8f1180aeeed40e891f34e5de8d68675e
+Author: Apradius <gustavo_rocha_2-d@hotmail.com>
+Date:   Sat Apr 25 23:28:12 2020 -0400
+
+    se elimino el buton de agregar cliente
+
+commit 29d88edb34421b0e4f2b8b6ad0e1314ed71cda59
+Author: Apradius <gustavo_rocha_2-d@hotmail.com>
+Date:   Sat Apr 25 22:09:59 2020 -0400
+
+    iniciamos
