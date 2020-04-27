@@ -1,0 +1,11 @@
+commit c39c8fdda133a7d7f60ec04fe2198c568259fb9e
+Author: Apradius <gustavo_rocha_2-d@hotmail.com>
+Date:   Sat Apr 25 22:12:38 2020 -0400
+
+    agregamos un nuevo cliente a la lista como prueba
+
+commit 29d88edb34421b0e4f2b8b6ad0e1314ed71cda59
+Author: Apradius <gustavo_rocha_2-d@hotmail.com>
+Date:   Sat Apr 25 22:09:59 2020 -0400
+
+    iniciamos
